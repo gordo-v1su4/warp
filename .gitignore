@@ -1,0 +1,33 @@
+# General
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Node
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+npm-debug.log*
+yarn-error.log*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Env/config
+.env
+.env.*
+
+# PowerShell
+*.ps1xml
+*.psc1
+
+# VSCode
+.vscode/
+
+# Git
+.git-credentials
+
